@@ -2,6 +2,8 @@
 That's how I started my studies at Soy Henry, a extensive school that have teached me everything I can do right now, but I still want to learn more. 
 If you are interested in working with me, you will find in me a proactive person, eager to work and expand their knowledge more and more! The technologies that I currently use are: Javascript, CSS3, SASS, LESS HTML5, Node.JS, React, React-Routing, React-Redux, ES5, ES6, AJAX, React Hooks, webpack, Web Server, Express, SQL databases, postgreSQL , Sequelize, Promises, Async Await, agile methodologies (SCRUM), mocha.
 
++Im actually learning: typescript, react-native, C++, Unreal Engine.
+
 - 📫 How to reach me ...
 + E-mail: daniel.maers@gmail.com
 + whatsapp: +543855309804
